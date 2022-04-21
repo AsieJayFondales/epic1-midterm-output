@@ -1,4 +1,4 @@
-<h1 align="center"> Lotus' Prism </h1>
+<h1 align="center"> 🌈 Lotus' Prism 🌈 </h1>
 <h2 align="center">  Mandala Art </h2> 
 
 - Lotus represents purity and enlightenment, whereas a rainbow or a prism represents hope or beauty after a storm. 
