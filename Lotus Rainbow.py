@@ -38,7 +38,7 @@ def drawsign():
         turtle.speed(50)
 drawsign()
 
-  #yellow (I used dark orange because my python can read yellow shades and I don't know)
+  #yellow (I used dark orange because my python can't read yellow shades and I don't know)
 def drawcircle(radius):
     turtle.color("dark orange")
     turtle.pensize(1)
