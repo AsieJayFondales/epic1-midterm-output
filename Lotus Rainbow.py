@@ -1,3 +1,5 @@
+#Asie Jay E. Fondales BSCS 1B
+
 import turtle
 
 turtle.title('Epic Lotus' 'Prism ')
@@ -7,7 +9,7 @@ turtle.bgcolor("black")
 turtle.color("dark red")
 turtle.pensize(1)
 
-
+#The Rainbow
  #dark red
 def drawcircle(radius):
     for i in range(10):
@@ -66,7 +68,7 @@ def drawsign():
         turtle.speed(50)
 drawsign()
 
-
+#blue
 def drawcircle(radius):
     turtle.color("dark blue")
     turtle.pensize(1)
@@ -82,6 +84,7 @@ turtle.speed(50)
     
 drawsign()
 
+#Indigo
 def drawcircle(radius):
     turtle.color("#4B0082")
     turtle.pensize(1)
@@ -96,6 +99,7 @@ def drawsign():
         turtle.speed(50000000)
 drawsign()
 
+#Violet
 def drawcircle(radius):
     turtle.color("#5200cc")
     turtle.pensize(1)
@@ -109,6 +113,7 @@ def drawsign():
         turtle.right(36)
         turtle.speed(50000000)
 drawsign()
+
 
 #lotus petals
 def draw_football(x,y,tilt,radius):
